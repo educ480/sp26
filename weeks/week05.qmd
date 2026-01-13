@@ -1,0 +1,124 @@
+---
+title: "Week 5: Educational Theories"
+subtitle: "EDUC 480 - Howard University"
+author: "Nathan Alexander, PhD"
+institute: "School of Education"
+format: 
+  html: default
+  revealjs:
+    output-file: week05-slides.html
+    height: 900
+    width: 1600
+    smaller: true
+    slide-number: c/t #< collapsted/total
+    logo: "img/howard-logo.jpg"
+    footer: "[Course Data GitHub](https://educ480.github.com/sp25)"
+    toc: true
+    toc_float: true
+    echo: true
+    incremental: false
+---
+
+# Context
+
+Classical educational theories have shaped the foundation of modern pedagogy and classroom practices. These theories, developed primarily in the Western context, have been influential globally. However, as education becomes increasingly internationalized, newer theories focusing on cultural relevance and sustainability have gained important prominence in terms of how we think about teaching and learning, especially in diverse and multicultural settings.
+
+## ![Global image of different nations](/img/culture.jpg)
+
+## Colonial Influence on Education
+
+In the 18th and 19th centuries, European colonizers significantly impacted education systems worldwide with a set of narrow beliefs. For example, in 1835, Thomas Babington Macaulay introduced a public education system in India aimed at creating an English-speaking, anglicized class of Indians to serve as cultural intermediaries. This event highlights how education was used as a tool for cultural and political influence, emphasizing the importance of considering diverse cultural contexts in educational theories. In what is now known as the United States, we read of histories of the assimilation-focused boarding schools for Native children and youth.
+
+![The Scream (2016) by Kent Monkman](/img/colonial.jpg)
+
+------------------------------------------------------------------------
+
+## The Rise of National Education Systems
+
+In the 20th century, we witness a dramatic expansion of public education systems globally. This growth was driven by the need for social cohesion in increasingly complex and politicized societies. Émile Durkheim, a French sociologist, for example, argued that education served to transmit core values and create a sense of "social being," a concept that became particularly relevant as newly independent states in Africa and Asia established their own education systems post-World War II. We should be mindful that many of these states that gained independence were previously colonized, and so the development of these new systems was heavily implicated by these histories.
+
+## ![K-12 Schools and School District GeoDemographics](/img/districts.gif)
+
+## Impact of World War II
+
+World War II had a profound impact on education, demonstrating that educational systems at the national level could influence global events. The war's outcome was partly attributed to scientific and technological advancements, leading to significant expansions in education. In the United States, this manifested as the G.I. Bill, which provided funding for returning servicemen to attend college, setting off a boom in higher education. We also saw instances of injustice taking place, such as the Japanese Interment Camps.
+
+## ![Education in a Japanese Interment Camp](/img/japanese-camps.jpg)
+
+## Globalization and Educational Access
+
+The late 20th century brought unprecedented access to information through the expansion of the internet and new digital tools. This technological revolution has transformed education, making it more accessible and flexible for all learners. This change has been reflected in the development of niche schools (such as charter schools) and new educational programming that has resulted in a host of social and political perspectives. The rise of online courses, virtual classrooms, and educational apps has necessitated a reevaluation of traditional educational theories to accommodate these new learning environments.
+
+![Global image of different nations](/img/global-circle.jpg)
+
+------------------------------------------------------------------------
+
+## The COVID-19 Pandemic
+
+The COVID-19 pandemic forced a rapid shift to online learning, highlighting both challenges and opportunities in remote education. This global event has accelerated the need to adapt educational theories to accommodate diverse learning environments and technological integration. This and other historical events underscore the importance of considering educational theories within an international context, as education continues to be shaped by global forces, cultural exchanges, and technological advancements.
+
+![Student learning with a mask during Covid-19](/img/covid.jpg)
+
+# Theory
+
+------------------------------------------------------------------------
+
+## Classical Educational Theories
+
+-   **Behaviorism Learning Theory**: Proposes that behavior is learned through interaction with the environment. It emphasizes observable behaviors and the role of reinforcement in learning.
+
+-   **Cognitive Learning Theory**: Focuses on how people think and process information. It suggests that learning involves mental processes influenced by both internal and external factors.
+
+-   **Constructivism Learning Theory**: Posits that learners create their own understanding based on previous experiences. It views learning as an active, personal process.
+
+![Three major lenses on education and learning](/img/major-theories.png)
+
+------------------------------------------------------------------------
+
+## Contemporary Culturally-Focused Theories
+
+1.  Culturally Relevant Pedagogy (Ladson-Billings): Emphasizes academic success, cultural competence, and critical consciousness. For example, using texts that represent diverse cultures in a literature class\[2\].
+
+2.  Culturally Responsive Teaching (Gay): Connects students' cultural knowledge and experiences to academic content. For instance, incorporating local community issues into social studies lessons\[4\].
+
+3.  Culturally Sustaining Pedagogy (Paris & Alim): Supports multilingualism and multiculturalism in schools. An example would be encouraging students to use their home languages in class discussions\[4\].
+
+![Gloria Ladson-Billings' Perspectives](/img/ladson.jpg)
+
+------------------------------------------------------------------------
+
+## Internationalization and Educational Theories
+
+1.  Global Citizenship Education (UNESCO): Promotes understanding of global issues and intercultural competencies. For example, engaging students in international pen pal programs.
+
+2.  Intercultural Communicative Competence (Byram): Emphasizes the ability to interact effectively across cultures. An example would be role-playing exercises simulating cross-cultural encounters.
+
+What goals might exist for you to integrate these theories into your teaching?
+
+# Practice
+
+As elementary school teachers implementing these theories, we should consider ways to:
+
+1.  Create a diverse classroom library representing various cultures and perspectives.
+
+2.  Use project-based learning to explore global issues at an age-appropriate level.
+
+3.  Incorporate multicultural art, music, and celebrations into the curriculum.
+
+4.  Encourage students to share their cultural backgrounds through "show and tell" or family heritage projects.
+
+5.  Use technology to connect with classrooms in other countries for cultural exchange.
+
+6.  Adapt teaching methods to accommodate different learning styles and cultural norms.
+
+7.  Integrate local community knowledge and resources into lessons.
+
+8.  Promote critical thinking about cultural stereotypes and global events.
+
+9.  Use culturally diverse examples and contexts when teaching core subjects like math and science.
+
+10. Implement multilingual approaches, valuing students' home languages alongside the language of instruction.
+
+# Next week
+
+During next week's class, we'll take a deeper look at some specific theories on internationalization and education.

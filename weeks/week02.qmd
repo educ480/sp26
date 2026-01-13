@@ -1,0 +1,93 @@
+---
+title: "Week 2: Ethnocentrism and Nationalism"
+subtitle: "EDUC 480 - Howard University"
+author: "Nathan Alexander, PhD"
+institute: "School of Education"
+format: 
+  html: default
+  revealjs:
+    output-file: week02-slides.html
+    height: 900
+    width: 1600
+    smaller: true
+    slide-number: c/t #< collapsed/total
+    logo: "img/howard-logo.jpg"
+    footer: "[Course Data GitHub](https://educ480.github.com/sp25)"
+    toc: true
+    toc_float: true
+    echo: true
+    incremental: false
+  pdf:
+    output-file: week02-slides.pdf
+    toc: true
+    number-sections: true
+    # any other PDF options here
+---
+
+
+## Introduction
+
+Nationalism is a set of beliefs emphasizing national identity and self-governance. Ethnocentrism is the tendency to view one's own culture as superior to others. Both concepts significantly impact education.
+
+![](/img/ethnocentrism.jpg)
+
+::: callout-note
+## Key Concepts
+
+-   Nationalism: Emphasis on national identity and self-governance
+-   Ethnocentrism: Viewing one's culture as superior to others
+:::
+
+## Ethnocentrism
+
+Ethnocentrism is the tendency to view one's own culture as superior and to judge other cultures based on the standards of one's own. Here are some examples of ethnocentrism:
+
+1.  Judging other countries' diets: Many Americans might find the Peruvian practice of eating guinea pigs disgusting, without considering that it's a normal part of Peruvian cuisine.
+
+2.  Expecting others to speak English: English speakers often expect people in other countries to communicate with them in English, even when visiting non-English speaking nations
+
+3.  Accents: People often believe they don't have an accent while others do, failing to recognize that everyone has an accent from someone else's perspective
+
+4.  Religious celebrations: Attempts to suppress or delegitimize other cultures' religious practices, such as China's efforts to restrict Ramadan celebrations in the Muslim region of Xinjiang
+
+5.  Clothing norms: Judging other cultures' traditional dress based on one's own cultural standards of appropriate attire
+
+### Ethnocentrism in Education
+
+Ethnocentrism in education can lead to:
+
+-   Biased interpretations of cultural differences
+-   Impact on student belonging
+-   Impact on classroom dynamics
+
+### Nationalism in Curriculum
+
+Nationalism influences education through:
+
+-   Shaping of curriculum design and content, often centering those in power
+-   Promotion of national identity in history and social studies
+    -   While this may be important at some times, it can be harmful in certain contexts.
+
+# Cultural Maps
+
+## Objective
+
+Create a visual representation of your cultural background, highlighting key elements that have shaped your identity and worldview.
+
+## Reflection questions
+
+-   How has your cultural background influenced your interactions with others?
+
+-   What aspects of your culture do you find most meaningful?
+
+-   Have you experienced any cultural conflicts or misunderstandings?
+
+## Format
+
+-   Create a visual representation (poster, digital infographic, or multimedia presentation)
+
+-   Include both images and text to convey information
+
+## Presentation
+
+-   Prepare a 5-minute presentation of your cultural map to share with the class

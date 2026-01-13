@@ -1,0 +1,38 @@
+---
+title: "Assignments"
+subtitle: "International Internship and Special Topics Seminar"
+---
+
+### **Overview of course assignments**
+
+Our course assignments will be split between three assignment groups and a participation grade.
+
+Please see the detailed syllabus on our Canvas for a more ordered list.
+
+::: column-screen-inset-right
+| Assignment group | Assignment | Due date |
+|:-----|:--------------|:-----|
+| **Reflections** | | |
+| | Position statement #1 | Mon Jan 27 |
+| | Position statement #2 | Mon Feb 10 |
+| | Position statement #3 | Mon Feb 24 |
+| | Position statement #4 | Mon Mar 10 |
+| | Position statement #5 | Mon Mar 24 |
+| | Position statement #6 | Mon Apr 7 |
+| **International trip** | | |
+| | Group 1: **Pre**-trip PowerPoint presentation | Mon Feb 24 |
+| | Group 2: **Post**-trip PowerPoint presentation | Mon Mar 17 |
+| | Photo book or digital journal projects (optional) | Tue Apr 29 |
+| **Classroom activities** | | |
+| | International lesson plan (draft) | Mon Mar 17 |
+| | Lesson plan overview (5-min presentation) | Tue Mar 18 |
+| | Final lesson plan presentations | Tue Apr 8 |
+| | Final lesson plan | Tue Apr 22 |
+| | Lesson plan assessment materials | Tue Apr 29 |
+| **Field and excursions** | | |
+| | Excursion 1: Embassy of Colombia | TBD |
+| | Excursion 2: [La Cosecha (Union Market)](https://unionmarketdc.com/la-cosecha/) | TBD |
+| | Excursion 3: TBD | TBD |
+| | Excursion 4: TBD | TBD |
+| | Field placement log | Tue Apr 29 |
+:::

@@ -1,0 +1,94 @@
+---
+title: "Week 1: Introduction to the course"
+subtitle: "EDUC 480 - Howard University"
+author: "Nathan Alexander, PhD"
+institute: "School of Education"
+format: 
+  html: default
+  revealjs:
+    output-file: week01-slides.html
+    height: 900
+    width: 1600
+    smaller: true
+    slide-number: c/t #< collapsted/total
+    logo: "img/howard-logo.jpg"
+    footer: "[Course Data GitHub](https://educ480.github.com/sp25)"
+    toc: true
+    toc_float: true
+    echo: true
+    incremental: false
+  pdf:
+    output-file: week01-slides.pdf
+    toc: true
+    number-sections: true
+    # any other PDF options here
+---
+
+# Introduction to the course
+
+This course integrates pedagogical and theoretical concepts related to teaching and learning in an international context. Candidates will develop global competencies and teaching skills via exposure to international students and educational environments. The seminar aspect of the course will employ online discussions, journal writing, and interdisciplinary readings to enrich the cross-cultural experiences and facilitate the intercultural development of teacher candidates. Candidates in the Elementary Education Program are eligible to register for 9 credit hours.
+
+# Syllabus overview
+
+The course is structured around four key areas:
+
+1.  Foundations of International and Comparative Education
+2.  Bilingual education theory and practice
+3.  Cultural competence and critical global citizenship
+4.  Field experience in a bilingual school setting
+
+Each area includes lectures, readings, discussions, and practical applications.
+
+# Course site overview
+
+This course site is your central hub for detailed course-related materials and activities.
+
+-   Weekly modules with readings, lecture videos, and discussion forums
+-   Resources for international education and bilingual teaching
+-   Links to virtual tools for individual and group projects
+-   A space for weekly field experience expectations and logs
+
+# Assignments
+
+1.  Reflections and readings
+
+-   Journal reflections and position statements (on Canvas)
+-   Readings and class discussions
+
+2.  International trip assignments for Colombia
+
+-   Passport documentation (required as soon as possible)
+-   Powerpoint presentations for Spring 2024 Colombia trip
+    -   Group 1: Pre-trip powerpoint presentation to Colombia community members
+    -   Group 2: Post-trip powerpoint presentation to HU faculty and student colleagues
+-   Photobook or digital journaling project (optional)
+
+3.  Classroom activities
+
+-   Internationally-focused lesson plan or unit activity (draft)
+-   Internationally-focused lesson plan or unit activity (final)
+-   Assessment plan for international lesson plan or class activity
+-   Assessment rubric for international lesson plan or class activity
+-   Additional materials of your choice
+
+4.  Field placement and excursions
+
+-   Excursion 1: Embassy of Colombia
+-   Excursion 2: La Cosecha (Union Market)
+-   Excursion 3: Cultural activity
+-   Excursion 4: Cultural activity
+-   Field placement log
+
+# Colombia trip updates
+
+As part of this course, we will be organizing a trip to Colombia to provide firsthand experience in an international educational setting. Updates regarding the trip will be posted regularly in this section, including:
+
+-   Pre-departure session at the Embassy of Colombia
+-   Itinerary and school visit schedules
+-   Cultural preparation resources
+-   Health and safety guidelines
+-   Post-trip reflection activities
+
+# Regions of the world
+
+If you could travel to any place in the world, or teach in any place in the world other than the United States, where might you go? Insert your top three countries or regions in [this document](https://docs.google.com/document/d/1wOMb1moArWh4-YAFDkAdY3XsaCqLAz0-8N0_e-MNtBk/edit?usp=sharing).

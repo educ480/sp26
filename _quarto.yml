@@ -1,0 +1,90 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  page-navigation: true
+  title: "EDUC 480: International Internship and Special Topics Seminar"
+  description: "Course site for EDUC 480 at Howard University"
+  site-url: "https://educ480.github.io/sp25"
+  
+  repo-url: "https://github.com/educ480/sp25"
+  
+  open-graph: true
+
+  page-footer:
+    right: "This page was built by Nathan Alexander, PhD in [Quarto](https://quarto.org/)"
+    left: "&copy; Copyright 2025, Nathan Alexander"
+    background: "#b1ccc1"
+   
+  sidebar:
+    background: "#b1ccc1"
+    logo: "img/global-hands.jpg"
+    pinned: true
+    align: center
+    tools: 
+      - icon: github
+        href: https://educ480.github.io/sp25/
+        text: "GitHub organization"
+      - icon: code-square
+        href: https://canvas.howard.edu/courses/53402
+        text: "Canvas site"
+  
+    style: "docked"
+    search: true
+    collapse-level: 1
+    contents:  
+    - href: index.qmd
+      text: Course landing page
+    - href: course-overview.qmd
+      text: Course overview
+    - href: assignments.qmd
+      text: Assignments
+    - section: "Weeks"
+      contents:
+        - href: weeks/week01.qmd
+          text: Week 1
+        - href: weeks/week02.qmd
+          text: Week 2
+        - href: weeks/week03.qmd
+          text: Week 3
+        - href: weeks/week04.qmd
+          text: Week 4
+        - href: weeks/week05.qmd
+          text: Week 5
+    - section: "Field experience"
+      contents:
+        - href: field/expectations.qmd
+          text: Expectations
+        - href: field/weekly.qmd
+          text: Weekly schedules
+        - href: weeks/departure.qmd
+          text: Pre-departure packet
+    - section: "Other and curricula"
+      contents: 
+        - href: who.qmd
+          text: Historical figures
+        - href: standards/common.qmd
+          text: Common Core State Standards - Mathematics
+        - href: standards/umoja.qmd
+          text: Umoja Curriculum
+        - href: standards/freedom.qmd
+          text: Freedom School Curriculum
+
+format:
+  html:
+    theme:
+      light: [spacelab, style/data202.scss]
+      dark: [spacelab, style/data202.scss, style/theme-dark.scss]
+    mainfont: "Atkinson Hyperlegible"
+    callout-appearance: simple
+    colorlinnks: false
+    code-copy: true
+    code-overflow: wrap
+    code-fold: true
+    toc: true
+
+execute: 
+  freeze: auto
+    
+editor: visual

@@ -1,0 +1,174 @@
+---
+title: "Colombia Pre-Departure Packet"
+subtitle: "EDUC 480 - Howard University"
+author: "Nathan Alexander, PhD"
+institute: "School of Education"
+format: 
+  html: default
+  revealjs:
+    output-file: departure-slides.html
+    height: 900
+    width: 1600
+    smaller: true
+    slide-number: c/t #< collapsted/total
+    logo: "img/howard-logo.jpg"
+    footer: "[Course Data GitHub](https://educ480.github.com/sp25)"
+    toc: true
+    toc_float: true
+    echo: true
+    incremental: false
+---
+
+# Spring Break 2025
+
+![Colombian flag](/img/colombia-flag.jpg)
+
+## Overview of Colombia
+
+Colombia, situated at the northern tip of South America, is a country of remarkable diversity and charm. Boasting a population of over 50 million, it's a melting pot of cultures, from indigenous communities to descendants of Spanish colonizers and African slaves. The country spans a variety of landscapes, from the Andes Mountains to the Amazon rainforest, Caribbean and Pacific coastlines.
+
+![Colombia map](/img/colombia-map.gif)
+
+---
+
+# Lodging
+
+## Sonata 44 Hotel Laureles (March 2 - 5)
+
+Cl 44A #71 - 63, Laureles
+MEDELLIN ANTIOQUIA 92103
+
+![Sonata 44](/img/sonata.jpg)
+
+---
+
+## Holiday Inn Express (March 5 - 8)
+
+Holiday Inn Express
+CARRERA 27 NO. 28 - 30
+CARTAGENA DE INDIAS 130001
+
+![Holiday Inn](/img/holiday-inn.jpg)
+
+
+# Trip Schedule
+
+Our trip will be hosted by [ORIGIN+CULTURE](https://www.instagram.com/originandculture/?hl=en){target="_blank"}, a Howard-alumna run Colombian-local travel organization.
+
+You can see a copy of the final schedule [here](https://www.canva.com/design/DAGf8TzIOVs/lmj9Hot1IhfA7tCQ4FMiQA/view?utm_content=DAGf8TzIOVs&utm_campaign=designshare&utm_medium=link&utm_source=viewer#1).
+
+> Origin + Culture provides immersive travel and cultural experiences that celebrate Afro- Colombian heritage. Alongside our curated tours, we also host an English Club to support language learning, engage in volunteer projects, and work closely with local businesses to develop and stimulate the Black economy. Through these activities, we create connections across the international Black diaspora and offer opportunities to learn about the impact of Afro-Colombian history, culture, and traditions. Each of our services is designed to support local communities and provide guests with authentic, and thought provoking experiences.
+
+## Sunday March 2 - Saturday March 8
+
+## Days 1-4: Medellín
+
+Medellín has transformed into a city of innovation and culture.
+
+![Medellin city street](/img/medellin.jpg)
+
+### Day 1 (Sun March 2)
+
+-   Morning:Flight to Medellín (DCA to MIA, MIA to MDE)
+-   Afternoon: Arrival and hotel check-in
+-   Evening: Dinner and cultural exchange
+
+### Day 2 (Mon March 3)
+
+-   Morning: Class time
+-   Afternoon: Visit to Comuna 13
+
+### Day 3 (Tue March 4)
+
+-   Morning: Class time
+-   Afternoon: Medellin Afro City Tour
+
+### Day 4 (Wed March 5)
+
+-   Morning: Checkout of hotel; transfer to Cartagena
+-   Afternoon: School/excursion and hotel check-in
+
+## Days 5-7: Cartagena and Palenque
+
+Cartagena, a UNESCO World Heritage site, offers a perfect blend of Caribbean atmosphere and colonial charm. Palenque is an historic African village in Colombia.
+
+![Lady with fruit on her head in traditional Colombian dress](/img/palenque.jpg)
+
+### Day 5 (Thu March 6)
+
+-   Morning: Day trip to San Basilio de Palenque
+-   Afternoon: Return to Cartagena
+
+### Day 6 (Fri March 7)
+
+-   Morning: Travel to Rosario Island Beach
+-   Afternoon: Beach Day
+
+### Day 7 (Sat March 8)
+
+-   Morning: Checkout and departure (CTG to MIA, MIA to DCA)
+-   Afternoon: Return to DCA
+
+![Men on Colombian street](/img/colombia-2.jpg)
+
+# Packing List
+
+## Clothing
+
+-   Lightweight, breathable clothing for hot weather
+-   Long-sleeved shirts and pants for mosquito protection
+-   Rain jacket or poncho
+-   Swimwear for beach day
+-   Light sweater or jacket for cooler evenings
+-   Comfortable walking shoes
+-   Sandals or flip-flops
+
+## Accessories
+
+-   Sun hat
+-   Sunglasses
+-   Daybag for excursions
+-   Reusable water bottle
+-   Travel locks
+
+## Electronics
+
+-   Smartphone and charger
+-   Camera
+-   Universal travel adapter
+
+## Toiletries
+
+-   Sunscreen (SPF 30 or higher)
+-   Insect repellent
+-   Hand sanitizer
+-   Personal medications
+
+## Documents
+
+-   Passport (valid for at least 6 months beyond March 1, 2025)
+-   Credit cards and some cash
+-   Copies of important documents
+
+![Traditional Colombian dishes](/img/colombian-food.jpg)
+
+# Travel Information
+
+## Visa and Entry Requirements
+
+-   Currently, U.S. visitors can enter Colombia without a visa for stays up to 90 days.
+-   You'll need a passport valid for at least 6 months beyond your planned return date.
+-   Check the [Colombian Ministry of Foreign Affairs website](https://www.cancilleria.gov.co/en) for the most up-to-date information.
+
+## Language
+
+Spanish is the official language. While English is spoken in some tourist areas, learning basic Spanish phrases will greatly enhance your experience and interactions with locals. We will practice some of these typical phrases in class.
+
+## Money
+
+-   The currency is the Colombian Peso (COP).
+-   Credit cards are widely accepted in cities and tourist areas.
+-   ATMs are readily available in urban areas.
+-   Inform your bank of your travel plans to avoid card blocks.
+
+We will be checking the latest travel advisories and health requirements before our trip. ¡Buen viaje!
