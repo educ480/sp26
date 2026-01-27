@@ -1,5 +1,5 @@
 ---
-title: "Week 4: Culture Map Presentations"
+title: "Week 4: Building a Classroom Community"
 subtitle: "EDUC 480 - Howard University"
 author: "Nathan Alexander, PhD"
 institute: "School of Education"
@@ -12,11 +12,13 @@ format:
     smaller: true
     slide-number: c/t #< collapsted/total
     logo: "img/howard-logo.jpg"
-    footer: "[Course Data GitHub](https://educ480.github.com/sp25)"
+    footer: "[Course Data GitHub](https://educ480.github.com/sp26)"
     toc: true
     toc_float: true
     echo: true
     incremental: false
 ---
 
-In class presentations. Please see [week 3](week03.qmd) or Canvas for details of the assignment.
+## Discussion of reading.
+
+## Presentation by course TA: Xavier Sherman.

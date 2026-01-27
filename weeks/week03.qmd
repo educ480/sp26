@@ -1,5 +1,5 @@
 ---
-title: "Week 3: Comparative and International Education"
+title: "Week 3: History of Comparative and International Education"
 subtitle: "EDUC 480 - Howard University"
 author: "Nathan Alexander, PhD"
 institute: "School of Education"
@@ -12,7 +12,7 @@ format:
     smaller: true
     slide-number: c/t #< collapsted/total
     logo: "img/howard-logo.jpg"
-    footer: "[Course Data GitHub](https://educ480.github.com/sp25)"
+    footer: "[Course Data GitHub](https://educ480.github.com/sp26)"
     toc: true
     toc_float: true
     echo: true
@@ -50,7 +50,7 @@ There are multiple approaches to international and comparative education.
 
 4.  A **sociological approach** explores the relationship between education and society.
 
-5.  A **policy appraoch** primarily examines and compares various policies and laws at the national level.
+5.  A **policy approach** primarily examines and compares various policies and laws at the national level.
 
 # Theory
 
@@ -70,9 +70,9 @@ James Baldwin's "A Talk to Teachers" is a speech delivered by Baldwin on October
 
 4.  He also challenges educators to prepare students to change society, even if it means facing resistance.
 
-## NPR Reading
+## Responding to the Moment
 
-You can find the reading here: <https://www.npr.org/hereandnow/2025/01/27/immigration-arrests-schools>
+You can find the reading from NPR from last year here: <https://www.npr.org/hereandnow/2025/01/27/immigration-arrests-schools>
 
 The article discusses recent changes to immigration enforcement policies under President Trump that now allow federal agents to conduct immigration arrests at schools and other previously protected locations. Some key points of the article include:
 

@@ -12,7 +12,7 @@ format:
     smaller: true
     slide-number: c/t #< collapsted/total
     logo: "img/howard-logo.jpg"
-    footer: "[Course Data GitHub](https://educ480.github.com/sp25)"
+    footer: "[Course Data GitHub](https://educ480.github.com/sp26)"
     toc: true
     toc_float: true
     echo: true
@@ -55,10 +55,10 @@ This course site is your central hub for detailed course-related materials and a
 -   Journal reflections and position statements (on Canvas)
 -   Readings and class discussions
 
-2.  International trip assignments for Cuba
+2.  International trip assignments for Colombia
 
 -   Passport documentation (required as soon as possible)
--   Powerpoint presentations for Spring 2026 Cuba trip
+-   Powerpoint presentations for Spring 2026 Colombia trip
     -   Group 1: Pre-trip powerpoint presentation to Colombia community members
     -   Group 2: Post-trip powerpoint presentation to HU faculty and student colleagues
 -   Photobook or digital journaling project (optional)

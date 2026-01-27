@@ -6,15 +6,15 @@ website:
   page-navigation: true
   title: "EDUC 480: International Internship and Special Topics Seminar"
   description: "Course site for EDUC 480 at Howard University"
-  site-url: "https://educ480.github.io/sp25"
+  site-url: "https://educ480.github.io/sp26"
   
-  repo-url: "https://github.com/educ480/sp25"
+  repo-url: "https://github.com/educ480/sp26"
   
   open-graph: true
 
   page-footer:
     right: "This page was built by Nathan Alexander, PhD in [Quarto](https://quarto.org/)"
-    left: "&copy; Copyright 2025, Nathan Alexander"
+    left: "&copy; Copyright 2026, Nathan Alexander"
     background: "#b1ccc1"
    
   sidebar:
@@ -24,41 +24,47 @@ website:
     align: center
     tools: 
       - icon: github
-        href: https://educ480.github.io/sp25/
+        href: https://educ480.github.io/sp26/
         text: "GitHub organization"
       - icon: code-square
-        href: https://canvas.howard.edu/courses/53402
+        href: https://canvas.howard.edu/courses/67262
         text: "Canvas site"
   
     style: "docked"
     search: true
     collapse-level: 1
     contents:  
-    - href: index.qmd
+    - href: index
       text: Course landing page
-    - href: course-overview.qmd
+    - href: course-overview
       text: Course overview
-    - href: assignments.qmd
+    - href: assignments
       text: Assignments
     - section: "Weeks"
       contents:
-        - href: weeks/week01.qmd
+        - href: weeks/week01
           text: Week 1
+        - href: weeks/week02
+          text: Week 2
+        - href: weeks/week03
+          text: Week 3
+        - href: weeks/week04
+          text: Week 4
     - section: "Field experience"
       contents:
-        - href: field/expectations.qmd
+        - href: field/expectations
           text: Expectations
-        - href: field/weekly.qmd
+        - href: field/weekly
           text: Weekly schedules
     - section: "Other and curricula"
       contents: 
-        - href: who.qmd
+        - href: who
           text: Historical figures
-        - href: standards/common.qmd
+        - href: standards/common
           text: Common Core State Standards - Mathematics
-        - href: standards/umoja.qmd
+        - href: standards/umoja
           text: Umoja Curriculum
-        - href: standards/freedom.qmd
+        - href: standards/freedom
           text: Freedom School Curriculum
 
 format:

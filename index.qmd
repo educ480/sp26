@@ -6,24 +6,24 @@ subtitle: "International Internship and Special Topics Seminar"
 ::: column-screen-inset-right
 | Week | Date | Module \[clickable links\] | Main readings \[clickable links\] |
 |:----:|:----:|:--------------------------|:----------------------------------|
-| 1 | Jan 13 | [Introduction to the course](weeks/week01.qmd) | [Syllabus](course-overview.qmd) |
-| 2 | Jan 20 | [Ethnocentrism and Nationalism](weeks/week02.qmd) | [Baldwin (1963)](https://www.dropbox.com/scl/fi/lyoiw8cp8xt5d4g8syoqj/Baldwin-J.-1963-.-A-Talk-to-Teachers.pdf?rlkey=db5eqfrjxe1mnywj0gikka8aq&dl=0){target="_blank"} |
-| 3 | Jan 27 | [Comparative and International Education](weeks/week03.qmd) | [NPR article](https://www.npr.org/hereandnow/2025/01/27/immigration-arrests-schools){target="_blank"} |
-| 4 | Feb 3 | [Culture Map Presentations](weeks/week04.qmd) | [Independent research](theories.qmd) |
-| 5 | Feb 10 | [Educational Theories](weeks/week05.qmd) | [Hope (2022)](https://www.dropbox.com/scl/fi/dgz5yzwmq3r6mifzjlch3/Hope-T.-2022-.-Black-Internationalization-for-a-Post-COVID-Era.pdf?rlkey=bic85o151in0w74ba10j1pzqu&dl=0){target="_blank"} & [Banks (2014)](https://www.dropbox.com/scl/fi/85b75h619f72ss3qp830d/Banks-2014.pdf?rlkey=s63wxqbo43mp6327gkslhxv22&dl=0){target="_blank"} |
-| 6 | Feb 17 | [Black Internationalization](https://eric.ed.gov/?id=EJ1359740){target="_blank"} | [Crenshaw et al. (2015)](https://www.dropbox.com/scl/fi/wu1f3sejoaz2aajz2p0xn/Crenshaw-K.-W.-Ocen-P.-Nanda-J.-2015-.-Black-Girls-Matter.pdf?rlkey=z6ar8hapa194kshqiqsi60pa9&dl=0){target="_blank"} & [Valenzuela (1999)](https://www.dropbox.com/scl/fi/1c71ihis09wb2xfpbodsv/Valenzuela-A.-1999-.-Subtractive-Schooling.pdf?rlkey=b65wv1a6qably4fvf8udvwdx2&dl=0){target="_blank"} |
-| 7 | Feb 24 | [The Caribbean, Central and South Americas](https://www.britannica.com/topic/list-of-countries-in-Latin-America-2061416){target="_blank"} | [Pre-departure packet](weeks/departure.qmd){target="_blank"} |
-| -- | -- | [Spring Break Travel: Cuba (Mar 3–9)](https://www.youtube.com/watch?v=MDCcJ-2VS7Y){target="_blank"} | [TBD](){target="_blank"} |
-| 8 | Mar 17 | No Class | [Lightfoot (2003)](https://www.dropbox.com/scl/fi/e8f1jkgmxh0u4qjw64exp/Lightfoot_Essential-Conversation-1.pdf?rlkey=mwziunhijn2h7txrq0f32lbj9&dl=0){target="_blank"} & [Moll et al. (1992)](https://www.dropbox.com/scl/fi/rnn9cuzslreopsccjs6l8/Moll-et-al-1992-_Funds-of-Knowledge.pdf?rlkey=imxbr80men0uhw1uu5e9c0g42&dl=0){target="_blank"} |
-| 9 | Mar 24 | [Visit with Dr. Helen Bond](){target="_blank"} | [Bond (2022)](https://link.springer.com/chapter/10.1007/978-3-030-92474-4_34){target="_blank"} |
-| 10 | Mar 31 | [Asia and Southeast Asia](https://www.asianstudies.org/publications/eaa/archives/facts-about-asia-asia-and-education/){target="_blank"} | [Paris (2012)](https://www.dropbox.com/scl/fi/zm63mtgo9vqdqi8ifw6cn/Paris-D.-2012-_Culturally-Sustaining-Pedagogy-A-Needed-Change-in-Stance-Terminology-and-Practice.pdf?rlkey=dwn4aftp7yyvle33ie5s8llj5&dl=0){target="_blank"} |
-| 11 | Apr 7 | [Native and Indigenous Systems](https://americanindian.si.edu/nk360/plains-belonging){target="_blank"} | [ross (2021)](https://www.jstor.org/stable/45454125?seq=2){target="_blank"} & [Freire (1970)](https://www.dropbox.com/scl/fi/tykioobiatscp9ob0emzc/Freire-P.-1970-2005-.-Pedagogy-of-the-Oppressed.pdf?rlkey=il3iojix4l2xwnlsabnl3weor&dl=0){target="_blank"} |
-| 12 | Apr 14 | [Presentations to SOE Faculty]() | [ ](){target="_blank"} |
-| 12* | Apr 17 (Fri) | [International Children's Reading Symposium](https://docs.google.com/forms/d/e/1FAIpQLSd7vN2siBwe5f2xlDGVwBy2lkcrXG54FcXf5oRV94C4-TKwxg/viewform) |  |
-| 13 | Apr 21 | [Global Activity Event](){target="_blank"} | [Carr (2024)](https://bowiestate.edu/academics/colleges/college-of-arts-and-sciences/departments/history-and-government/research/freedom%20-journal-of-research-in-aficana-studies-volume1.pdf#page=64){target="_blank"} |
-| 14 | Apr 28 | [SOE Career Expo]() | [ ](){target="_blank"} |
-| 15 | May 5 | [Reflections]() | [ ](){target="_blank"} |
+| 1 | Jan 13 | [Introduction to the course](weeks/week01.qmd) | [King, J.(2006)](https://www.dropbox.com/scl/fi/6vbyal1yi9f2yo8o2nanr/king-2006-if-justice-is-our-objective-diaspora-literacy-heritage-knowledge-and-the-praxis-of-critical-studyin-for-human.pdf?rlkey=993wxhk0uw8jw53ss39ebggmy&dl=0){target="_blank"} |
+| 2 | Jan 20 | [Field placements (Dr. Alicia Renix) and course schedule](weeks/week02.qmd) | [Baldwin, J. (1963)](https://www.dropbox.com/scl/fi/lyoiw8cp8xt5d4g8syoqj/Baldwin-J.-1963-.-A-Talk-to-Teachers.pdf?rlkey=db5eqfrjxe1mnywj0gikka8aq&dl=0){target="_blank"} |
+| 3 | Jan 27 | [History of comparative & international education](weeks/week03.qmd) | [Wolhuter (Ch. 1)](https://www.dropbox.com/scl/fi/lt2cixiol5rv8reb0lcwq/Wolhuter-C.-2024-.-Global-South-and-Comparative-and-International-Education..pdf?rlkey=nyetfdxlbuukley4jecu88prl&dl=0){target="_blank"} |
+| 4 | Feb 3 | [Building a classroom community](weeks/week04.qmd) | [Ladson-Billings, G. (1994)](https://www.dropbox.com/scl/fi/xlfn2wdf70bu8dti87z4w/Ladson-Billings-1994-_Dreamkeepers-Chapter-4.pdf?rlkey=oeagly2f850kkteictfbceh1c&dl=0){target="_blank"} |
+| 5 | Feb 10 | [Educational theories and global perspectives](weeks/week05.qmd) | [Wolhuter, C. (Ch. 4)](https://www.dropbox.com/scl/fi/lt2cixiol5rv8reb0lcwq/Wolhuter-C.-2024-.-Global-South-and-Comparative-and-International-Education..pdf?rlkey=nyetfdxlbuukley4jecu88prl&dl=0){target="_blank"} |
+| 6 | Feb 17 | [Diaspora literacy and global studies (pt. 1)](weeks/week06.qmd) |  |
+| 7 | Feb 24 | [Diaspora literacy and global studies (pt. 2)](weeks/week07.qmd) | [Hope, T. (2022)](https://www.dropbox.com/scl/fi/dgz5yzwmq3r6mifzjlch3/Hope-T.-2022-.-Black-Internationalization-for-a-Post-COVID-Era.pdf?rlkey=bic85o151in0w74ba10j1pzqu&dl=0){target="_blank"} |
+| -- | -- | Spring Break Travel to Colombia: Saturday March 7 to Saturday March 14 |  |
+| 8 | Mar 17 | No class meeting |  |
+| 9 | Mar 24 | [Language and global literacy](weeks/week09.qmd) | [Wolhuter, C. (Ch. 5)](https://www.dropbox.com/scl/fi/lt2cixiol5rv8reb0lcwq/Wolhuter-C.-2024-.-Global-South-and-Comparative-and-International-Education..pdf?rlkey=nyetfdxlbuukley4jecu88prl&dl=0){target="_blank"} |
+| -- | -- | 2026 HUSOE Career Expo: Wednesday March 25 to Friday March 27 |  |
+| 10 | Mar 31 | [Assessing language and literacy](weeks/week10.qmd) | [Paris, D. (2012)](https://www.dropbox.com/scl/fi/zm63mtgo9vqdqi8ifw6cn/Paris-D.-2012-_Culturally-Sustaining-Pedagogy-A-Needed-Change-in-Stance-Terminology-and-Practice.pdf?rlkey=dwn4aftp7yyvle33ie5s8llj5&dl=0){target="_blank"} |
+| 11 | Apr 7 | [Native and Indigenous educational systems](weeks/week11.qmd) | [Moll, L. (1992)](https://www.dropbox.com/scl/fi/rnn9cuzslreopsccjs6l8/Moll-et-al-1992-_Funds-of-Knowledge.pdf?rlkey=imxbr80men0uhw1uu5e9c0g42&dl=0){target="_blank"} & [Freire, P. (Ch. 2)](https://www.dropbox.com/scl/fi/tykioobiatscp9ob0emzc/Freire-P.-1970-2005-.-Pedagogy-of-the-Oppressed.pdf?rlkey=il3iojix4l2xwnlsabnl3weor&dl=0){target="_blank"} |
+| 12 | Apr 14 | [Presentation to School of Education (SOE) faculty](weeks/week12.qmd) |  |
+| 13 | Apr 21 | [Global activity teaching rotations](weeks/week13.qmd) |  |
+| 14 | Apr 28 | [Course wrap-up](weeks/week14.qmd) |  |
 :::
+
 
 **Additional Links and Materials**:
 
